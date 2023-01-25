@@ -1,4 +1,5 @@
 import init.manta.usb.rc
+import init.maru.rc
 
 on init
     start watchdogd

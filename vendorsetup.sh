@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo aosp_manta-userdebug
+add_lunch_combo maru_manta-userdebug
