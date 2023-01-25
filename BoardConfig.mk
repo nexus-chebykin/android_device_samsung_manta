@@ -31,7 +31,7 @@ TARGET_ARCH_VARIANT := armv7-a-neon
 TARGET_CPU_VARIANT := cortex-a15
 
 # Define kernel config for inline building
-TARGET_KERNEL_CONFIG := maru_manta_defconfig
+TARGET_KERNEL_CONFIG := maru-manta_defconfig
 TARGET_KERNEL_SOURCE := kernel/manta
 
 #Bluetooth
