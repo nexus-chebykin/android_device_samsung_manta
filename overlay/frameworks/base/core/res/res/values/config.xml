@@ -34,8 +34,10 @@
 
     <!-- Is the notification LED intrusive? Used to decide if there should
     be a disable option -->
+<!--
+    written twice for some reason...
     <bool name="config_intrusiveNotificationLed">true</bool>
-
+-->
     <!-- This device is not "voice capable"; it's data-only. -->
     <bool name="config_voice_capable">false</bool>
 
