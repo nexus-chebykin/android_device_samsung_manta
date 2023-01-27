@@ -1,2 +1,2 @@
-# this should be more specific - /system/lib/omx
-allow mediacodec system_file:dir r_dir_perms;
+allow mediacodec system_file:dir { open read };
+allow mediacodec sysfs:file { open read getattr };
