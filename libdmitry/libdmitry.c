@@ -6,7 +6,6 @@
 #include <utils/Log.h>
 #include <hardware/power.h>
 #include <hardware/hardware.h>
-
 /*
  * CURIOUS WHAT THE HELL IS GOING ON IN HERE? READ UP...
  *

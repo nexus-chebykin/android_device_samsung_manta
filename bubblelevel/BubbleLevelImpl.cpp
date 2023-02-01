@@ -19,6 +19,7 @@
 
 #include <utils/Log.h>
 #include <binder/IServiceManager.h>
+#include "../../../../frameworks/native/libs/sensor/include/sensor/SensorManager.h"
 #include "BubbleLevelImpl.h"
 
 namespace android {
